@@ -1,0 +1,7 @@
+productms.datasource.url: jdbc:h2:mem:productmsDb;DB_CLOSE_DELAY=-1
+productms.datasource.username: sa
+productms.datasource.password:
+productms.datasource.driver: org.h2.Driver
+
+
+greeting: Hello product
